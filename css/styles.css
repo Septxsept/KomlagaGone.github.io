@@ -31,8 +31,6 @@ body{
 
 
 
-
-
   main{
     margin: 0 7rem;
     
@@ -276,16 +274,14 @@ transition: all 0.5s ;
 
     }
 
-    .navBar__link{
+    .navbar__link{
       text-align: center;
-      padding: 2rem;
+      padding: 1rem 2rem;
       width: 100%;
       display: table;
-   
-    
-
-
+      font-size: 1.5rem;
     }
+    
 
     #mobile-menu{
     position: absolute;
@@ -1112,11 +1108,11 @@ position: relative;
       padding: 10px;
       border:  none;
       outline: none;
-      background-image: linear-gradient(to top, #e97a1fe1 0%,  #ff056982 100%);
+      background-image: linear-gradient(to top, #0a0a0a 0%, #048768  100%);
       font-size: 1rem;
       margin-bottom: 0.7rem;
       border-radius: 10px;
-      color: #000;
+      color: #fff7f7;
       font-weight: 700;
 
 
