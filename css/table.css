@@ -28,7 +28,7 @@
    td {
       display: table-cell;
       border: 1px solid #64ffda;
-      font-size: 2rem;
+       font-size: 1.5rem;
       padding: 5px;
       vertical-align: top;
       word-wrap: break-word;
